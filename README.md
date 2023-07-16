@@ -1,7 +1,7 @@
 # AWS
 #Step1
-<h1>how to configure AWS
-1--to create a new instances of EC2(instances)
+<p>how to configure AWS <br/>
+1--to create a new instances of EC2(instances)<br/>
    --to right side click launch instances
    --inside the launch instances
        ---Name-- You enter
@@ -10,18 +10,18 @@
        ----to create folder where you use these things that folder you store aws Credentials
        ----create Security group (for New user)
        ----at the right side launch instances click on that.
-       ----you create new instances successfully
+       ----you create new instances successfully <br/>
 2--Go to EC2 Dashboard ,where you see your created instances is there.
  --click on the instances Id 
 ---After that new page is open 
 ---At the right top side connect option is there just click on that.
 ---in that go to SSH Client 
-----At the bottom there is Some url (copy that) like that it shows....ssh -i "kunal.pem" ec2-user@ec2-44-204-61-222.compute-1.amazonaws.com
+----At the bottom there is Some url (copy that) like that it shows....ssh -i "kunal.pem" ec2-user@ec2-44-204-61-222.compute-1.amazonaws.com <br/>
 
 3---created that folder where aws credentials is there ,which we use command prompt
  ---open terminal
  ----cd your folder name (location of the folder)
  ---After that you copy that url from aws paste it here (this one ->ssh -i "kunal.pem" ec2-user@ec2-44-204-61-222.compute-1.amazonaws.com)
- ---After that you are in EC2 user .
+ ---After that you are in EC2 user .<br/>
 4--congrats you are done till here.
-</h1>
+</p>
